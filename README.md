@@ -1,6 +1,6 @@
 # XGBoost_LandmarkDetect
 This project uses the XGBoost model to realize face detection and landmarks detection without using the XGBoost package or sklearn package.
-There are 3 classes in XGBoost model: "Node"/"Tree"/"Forest" 
+There are 3 classes in XGBoost model: "Node" "XGBTree"/"XGBForest" 
 
 # Dataset
 The human faces pictures are selected from FDDB and xxx.
